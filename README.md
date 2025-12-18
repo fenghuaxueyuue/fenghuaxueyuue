@@ -1,2 +1,3 @@
-wip
-![Alt text for the image](https://files.catbox.moe/1e411p.jpeg)
+<p align="center">
+  <img src="https://files.catbox.moe/1e411p.jpeg" alt="Description of image">
+</p>
